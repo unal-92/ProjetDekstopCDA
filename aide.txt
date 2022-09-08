@@ -1,0 +1,18 @@
+KIvy c'est un GUI ca permet de creer une interface utilisateur creer des boutons etc
+
+
+gitignore quand je push sur git et bien la librairie ne sera pas pusher sur le git
+
+
+version de python etc
+
+
+
+le self c'est pour avoir acces a tout ce qui est calculator l'instance de ma class
+
+
+voiture = instance d'un model en particulier
+
+
+maoinappKV
+on est dans la class calculator. py
